@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MuPTS</string>
+    <string name="description">Description</string>
+    <string name="usernamehint">Username</string>
+    <string name="passwordhint">Password</string>
+    <string name="loginbutton">Log in</string>
+    <string name="signuptext">Sign up for MUphotospot</string>
+    <string name="emailhint">E-mail Address</string>
+    <string name="birthdayhint">Birthday(dd/mm/yy)</string>
+    <string name="signupbutton">Sign up</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="locationtext">Location</string>
+    <string name="action_camera">camera</string>
+    <string name="app_info">Muphotospot v. 1.0.0</string>
+    <string name="skiptologin">Skip and get start</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "162853499771",
+    "firebase_url": "https://muphotospot.firebaseio.com",
+    "project_id": "muphotospot",
+    "storage_bucket": "muphotospot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162853499771:android:1a7fd40efb26823d",
+        "android_client_info": {
+          "package_name": "com.egco428.mupts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162853499771-2il0lvlsetqivt3snn157liu6rajlvf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7UYlYrJyB4xMmb_XHgrmD5mcAOGFu90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
